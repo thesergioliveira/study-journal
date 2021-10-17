@@ -77,3 +77,5 @@ bootstrap.css.map
 bootstrap.min.css
 
 > this is the one that should be linked on the index.html file
+
+This is just a small modification that dows not represent what I am doing right now.
